@@ -1,5 +1,7 @@
 # GitHub Android App  [![Google Play](http://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.github.mobile) [![Build Status](https://travis-ci.org/github/android.png)](https://travis-ci.org/github/android)
 
+[![Join the chat at https://gitter.im/movibe/android](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/movibe/android?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository contains the source code for the GitHub Android app.
 
 <a href="https://play.google.com/store/apps/details?id=com.github.mobile" alt="Download from Google Play">
